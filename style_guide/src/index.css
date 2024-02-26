@@ -1,0 +1,32 @@
+body {
+  margin: 0 10%;
+}
+
+.container {
+  border: 1px solid black;
+}
+
+.green {
+  background-color: #a1ef88;
+  color: #000000;
+}
+
+.gray {
+  background-color: #0B5351;
+  color: #ffffff;
+}
+
+.periwinkle {
+  background-color: #B8CDF8;
+  color: #000000;
+}
+
+.fandango {
+  background-color: #BD2D87;
+  color: #000000;
+}
+
+.orchid {
+  background-color: #D664BE;
+  color: #000000;
+}
